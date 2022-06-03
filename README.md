@@ -1,1 +1,1 @@
-Salesforce Developer Catalyst Self-Learning & Super Badges
+Consists of coding part
